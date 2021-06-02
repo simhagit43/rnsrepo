@@ -13,6 +13,6 @@ Also ensure maven path is set in you System so that you can run `mvn` commands
 Clone this code to your local using the following command
 
 ```bash
-git clone https://github.com/aditya-sridhar/first-maven-app.git
+git clone https://gitlab.com/rns-devops/maven-first-app.git
 ```
 
